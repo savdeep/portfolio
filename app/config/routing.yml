@@ -1,0 +1,5 @@
+virdi_portfolio:
+    resource: "@VirdiPortfolioBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
